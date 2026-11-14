@@ -1,4 +1,4 @@
-package model;
+package com.devsino.studentmanagementapi.model;
 
 import jakarta.persistence.*;
 
